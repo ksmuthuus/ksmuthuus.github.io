@@ -104,4 +104,4 @@ dmypy.json
 flask_session/
 
 # Static files
-static/
+# static/
